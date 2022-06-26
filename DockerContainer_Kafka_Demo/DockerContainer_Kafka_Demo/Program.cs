@@ -2,6 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Write anything");
-Console.WriteLine("Modifica Non committata");
+Console.WriteLine("Digit: ");
 Console.ReadLine();
 
