@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DockerContainer_Kafka_Demo"
   ],
-  "SelectedNode": "\\C:\\Users\\Samsung\\Documents\\Gianluca\\Git_Sources\\.NetSamples",
+  "SelectedNode": "\\DockerContainer_Kafka_Demo\\DockerContainer_Kafka_Demo.sln",
   "PreviewInSolutionExplorer": false
 }
