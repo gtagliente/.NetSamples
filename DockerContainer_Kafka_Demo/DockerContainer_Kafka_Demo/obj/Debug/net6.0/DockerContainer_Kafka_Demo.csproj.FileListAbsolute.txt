@@ -1,0 +1,15 @@
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\bin\Debug\net6.0\DockerContainer_Kafka_Demo.exe
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\bin\Debug\net6.0\DockerContainer_Kafka_Demo.deps.json
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\bin\Debug\net6.0\DockerContainer_Kafka_Demo.runtimeconfig.json
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\bin\Debug\net6.0\DockerContainer_Kafka_Demo.dll
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\bin\Debug\net6.0\DockerContainer_Kafka_Demo.pdb
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.csproj.AssemblyReference.cache
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.AssemblyInfo.cs
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.dll
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\refint\DockerContainer_Kafka_Demo.dll
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.pdb
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\DockerContainer_Kafka_Demo.genruntimeconfig.cache
+C:\Users\Samsung\Documents\Gianluca\Local_Repos\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo\obj\Debug\net6.0\ref\DockerContainer_Kafka_Demo.dll

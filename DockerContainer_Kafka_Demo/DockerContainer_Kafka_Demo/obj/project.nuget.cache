@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQHkyBLwBWHHUgbbR9f2Uqk+/sK1ufkUD73X6xa2ZyEXGGWGflZFnZkEg1Z29+oKCG2Vsb0pAaIXe0tGSFNmDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Documents\\Gianluca\\Git_Sources\\.NetSamples\\DockerContainer_Kafka_Demo\\DockerContainer_Kafka_Demo\\DockerContainer_Kafka_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

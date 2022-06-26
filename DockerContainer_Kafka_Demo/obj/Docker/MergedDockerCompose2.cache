@@ -1,0 +1,7 @@
+services:
+  dockercontainer_kafka_demo:
+    build:
+      context: C:\Users\Samsung\Documents\Gianluca\Git_Sources\.NetSamples\DockerContainer_Kafka_Demo
+      dockerfile: DockerContainer_Kafka_Demo/Dockerfile
+    image: dockercontainerkafkademo
+version: '3.4'

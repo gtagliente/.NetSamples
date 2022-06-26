@@ -1,0 +1,26 @@
+services:
+  dockercontainer_kafka_demo:
+    build:
+      context: C:\Users\Samsung\Documents\Gianluca\Git_Sources\.NetSamples\DockerContainer_Kafka_Demo
+      dockerfile: DockerContainer_Kafka_Demo/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: DockerContainer_Kafka_Demo
+      target: base
+    container_name: DockerContainer_Kafka_Demo
+    entrypoint: tail -f /dev/null
+    environment:
+      NUGET_FALLBACK_PACKAGES: ''
+    image: dockercontainerkafkademo:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net6.0/DockerContainer_Kafka_Demo.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    tty: true
+    volumes:
+    - C:\Users\Samsung\Documents\Gianluca\Git_Sources\.NetSamples\DockerContainer_Kafka_Demo\DockerContainer_Kafka_Demo:/app:rw
+    - C:\Users\Samsung\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\Samsung\.nuget\packages:/root/.nuget/packages:ro
+version: '3.4'

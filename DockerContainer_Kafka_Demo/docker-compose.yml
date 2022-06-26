@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockercontainer_kafka_demo:
+    image: ${DOCKER_REGISTRY-}dockercontainerkafkademo
+    build:
+      context: .
+      dockerfile: DockerContainer_Kafka_Demo/Dockerfile
